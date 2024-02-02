@@ -62,7 +62,10 @@ copier effet glow qd select liste mmber
 }
 */
 /*bouton read all plugin*/
-
+/*
+.lookFilled__19298.colorBrand_b2253e{
+background-color:transparent!important;
+}
 /*Selection d'uin salon / gestion effet neon*/
 #app-mount .wrapper__7bcde.modeSelected__487d6 .link__95dc0{
 	background: rgb(var(--accent)), 0.1);
